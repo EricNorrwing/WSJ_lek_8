@@ -36,4 +36,4 @@ out/
 ### VS Code ###
 .vscode/
 
-./WSJ_lek_8/src/resources/application.properties
+/src/main/resources/application.properties
